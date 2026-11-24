@@ -221,3 +221,26 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Private materials
+private/
+private_assets/
+raw_screenshots/
+inputs/
+
+# Generated outputs
+output/
+outputs/
+sop-output/
+
+# Local configuration
+config.local.yaml
+.env
+.venv/
+__pycache__/
+.DS_Store
+
+# Local fonts
+*.ttf
+*.ttc
+*.otf
