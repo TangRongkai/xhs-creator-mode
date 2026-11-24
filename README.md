@@ -20,6 +20,31 @@ AI生图有以下几个特点：
 
 因此，我将实际创作过程中不断迭代的经验整理成了这个 Agent Skill。
 
+## 创作案例 / Showcase
+
+从生活记录到知识科普，不同内容采用不同的表达方式。
+
+[查看全部案例、素材说明及完整图文 →](examples/README.md)
+
+| 生活记录｜周末随手记 | 旅行记录｜周末去看海 |
+| --- | --- |
+| [![前后对比](examples/plog/comparison.png)](examples/plog/README.md) | [![前后对比](examples/travel-diary/comparison.png)](examples/travel-diary/README.md) |
+
+| 好物分享｜桌面常用物 | 知识科普｜秋叶为什么变黄 |
+| --- | --- |
+| [![前后对比](examples/product-sharing/comparison.png)](examples/product-sharing/README.md) | [![前后对比](examples/science-explainer/comparison.png)](examples/science-explainer/README.md) |
+
+| 行业观点｜AI改变哪些工作环节 | 软件教程｜用 Markdown 写笔记 |
+| --- | --- |
+| [![前后对比](examples/opinion/comparison.png)](examples/opinion/README.md) | [![前后对比](examples/software-tutorial/comparison.png)](examples/software-tutorial/README.md) |
+
+| 阅读分享｜做一份有用的读书笔记 | 数据分析｜一周的 168 小时 |
+| --- | --- |
+| [![前后对比](examples/reading-notes/comparison.png)](examples/reading-notes/README.md) | [![前后对比](examples/data-storytelling/comparison.png)](examples/data-storytelling/README.md) |
+
+> 案例用于展示排版和表达差异。AI 演示照片、合成数据、实际渲染页面等来源见各案例说明。
+
+
 ## 核心能力
 
 - 创作者思维：梳理内容主题、叙事顺序和信息价值。
