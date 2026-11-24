@@ -1,10 +1,9 @@
 ---
-
 name: xhs-creator-mode
-description: Create and redesign Xiaohongshu posts using natural writing, authentic source materials, context-aware editorial design, privacy protection, and visual quality review. Supports lifestyle, travel, product sharing, knowledge, opinions, tutorials, reading notes, and data storytelling.
+description: Create and redesign Xiaohongshu (RedNote) posts using natural writing, authentic source materials, context-aware editorial design, privacy protection, and visual quality review. Supports lifestyle, travel, product sharing, knowledge, opinions, tutorials, reading notes, and data storytelling.
+---
 用于真实经验分享、小红书图文、实操教程、SOP套图、截图排版、去模板感重做；不用于一般商业广告或纯插画。
 
----
 
 # 真实实操图文（Authentic SOP Carousel）
 
