@@ -1,12 +1,7 @@
 ---
-name: authentic-sop-carousel
-description: >-
-  Create, redesign, or review Chinese mobile-first, text-led step-by-step image
-  carousels, real-experience tutorials, and SOP graphics for Xiaohongshu, Douyin,
-  TikTok Shop, cross-border e-commerce, software tutorials, and other practical
-  workflows using real screenshots, restrained editorial typography, privacy
-  redaction, accurate annotations, natural non-defensive copy, and page-by-page QA.
-  用于真实经验分享、小红书图文、实操教程、SOP套图、截图排版、去模板感重做；不用于一般商业广告或纯插画。
+name: xhs-creator-mode
+description: Create authentic Xiaohongshu (RedNote) posts and carousels using real materials, natural writing, professional editorial design, privacy protection, and visual quality review.
+用于真实经验分享、小红书图文、实操教程、SOP套图、截图排版、去模板感重做；不用于一般商业广告或纯插画。
 ---
 
 # 真实实操图文（Authentic SOP Carousel）
