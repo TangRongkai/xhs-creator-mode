@@ -30,6 +30,18 @@ AI生图有以下几个特点：
 - 专业审查：逐页检查信息、排版、标注和审美。
 - 本地渲染：支持使用 Python 合成高清图文。
 
+## 效果展示 · Before & After
+
+同一组生活素材，两种不同的创作思路。
+
+![图文设计前后对比](examples/plog/comparison.png)
+
+### 生活记录 PLOG
+
+![生活记录完整示例](examples/plog/overview.jpg)
+
+[查看完整创作案例](examples/plog/README.md)
+
 ## 适用场景
 
 当前版本重点支持：
