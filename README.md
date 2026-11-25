@@ -4,6 +4,7 @@
 
 Think like a creator. Design like a professional. Write like a human.
 
+Keep Simple, Keep Real
 ## 为什么做这个项目？
 
 在使用 AI 制作小红书图文的过程中，我发现了一个重要问题：
